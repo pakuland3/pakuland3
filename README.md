@@ -1,7 +1,6 @@
 # 🤞 Nice way to meet me
 <p>
   <a href="https://kimgwanjung.tistory.com/" target="_blank"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:kimgwanjung0424@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kimgwanjung0424-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
